@@ -1,6 +1,10 @@
+Here's your updated README with your LinkedIn profile added:
+
+---
+
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a **Senior Software Engineer** with expertise in the **Java** ecosystem, focusing on **backend development** using **Spring**. 
+Welcome to my GitHub profile! I'm a **Senior Software Engineer** with expertise in the **Java** ecosystem, focusing on **backend development** using **Spring**.  
 I’m passionate about addressing complex software challenges and building solutions that are both scalable and maintainable.
 
 ## 🔧 Technologies & Tools
@@ -16,6 +20,10 @@ I’m passionate about addressing complex software challenges and building solut
 - Building scalable Java applications using Spring Boot.
 - Working with Kafka to enhance event-driven systems.
 - Developing microservices to improve system performance.
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/burak-ozmen/)
 
 <!--
 **burakozmen8/burakozmen8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
