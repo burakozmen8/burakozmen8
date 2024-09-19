@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a **Senior Software Engineer** with expertise in the **Java** ecosystem, focusing on **backend development** using **Spring**.
+I'm a **Senior Software Engineer** with expertise in the **Java** ecosystem, focusing on **backend development** using **Spring**.
 I’m passionate about addressing complex software challenges and building solutions that are both scalable and maintainable.
 - I currently work at **Migros One**, where I develop scalable systems using microservice architecture in Product domain.
 - Previously, I worked at **Milsoft Software Technologies**, contributing to electronic warfare simulation and data distribution projects.
