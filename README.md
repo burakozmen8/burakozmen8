@@ -21,7 +21,7 @@ I’m passionate about addressing complex software challenges and building solut
 - Working with Kafka to enhance event-driven systems.
 - Developing microservices to improve system performance.
 
-## 🌐 Connect with Me
+## 🌐 Socials
 
 - [LinkedIn](https://www.linkedin.com/in/burak-ozmen/)
 
