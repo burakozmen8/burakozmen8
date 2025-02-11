@@ -1,27 +1,37 @@
 # Hi there! 👋
 
-I'm a **Senior Software Engineer** with expertise in the **Java** ecosystem, focusing on **backend development** using **Spring**.
-I’m passionate about addressing complex software challenges and building solutions that are both scalable and maintainable.
-- I currently work at **Migros One**, where I develop scalable systems using microservice architecture in Product domain.
-- Previously, I worked at **Milsoft Software Technologies**, contributing to electronic warfare simulation and data distribution projects.
-- I hold a **B.Sc. in Computer Science** from **Bilkent University**.
+I'm a **Senior Software Engineer** with expertise in the **Java** ecosystem, focusing on **backend development** using **Spring**.  
+I’m passionate about addressing complex software challenges through **Software Craftsmanship** and robust architectural patterns like **Domain-Driven Design** and **Clean Architecture**, building solutions that are both scalable and maintainable.
 
+- 💼 I currently work at **Migros One**, where I develop scalable systems using microservice architecture in the Product domain
+- ⚙️ Previously at **Milsoft Software Technologies**, contributing to electronic warfare simulation and data distribution projects
+- 🎓 Hold a **B.Sc. in Computer Science** from **Bilkent University**
+- 🏗️ Deeply interested in **Software Architecture** and **System Design** principles
 
-## 🔧 Technologies & Tools
+## 🛠️ Technologies & Tools
 
 - **Languages:** Java
 - **Frameworks:** Spring Boot, Hibernate, JUnit
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **Event-driven Architecture:** Apache Kafka
-- **Other Tools:** Docker, Kubernetes, Jenkins, CI/CD, Microservices, RESTful APIs
+- **Architecture:** Event-driven Architecture (Apache Kafka), Microservices
+- **DevOps:** Docker, Kubernetes, Jenkins, CI/CD
+- **APIs:** RESTful APIs, OpenAPI Specification
 
-## 🌱 Currently Working On
+## 🏛️ Software Design & Architecture
 
-- Building scalable Java applications using Spring Boot.
-- Working with Kafka to enhance event-driven systems.
-- Developing microservices to improve system performance.
+- **Methodologies:** Domain-Driven Design (DDD), Clean Architecture, Hexagonal Architecture
+- **Principles:** SOLID
+- **Code Quality:** Clean Code, Test-Driven Development (TDD), Refactoring
 
-## 🌐 Socials
+## 🌱 Currently Growing In
+
+- Implementing **Domain-Driven Design** principles in complex business domains
+- Building evolvable systems using **Clean Architecture** patterns
+- Enhancing event-driven systems with **Apache Kafka**
+- Improving code quality through **Test-Driven Development** and **Refactoring**
+- Applying **Hexagonal Architecture** for better separation of concerns
+
+## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/burak-ozmen/)
 
