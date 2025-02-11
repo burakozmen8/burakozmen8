@@ -1,4 +1,4 @@
-# Hi there! 👋
+# About me
 
 I'm a **Senior Software Engineer** with expertise in the **Java** ecosystem, focusing on **backend development** using **Spring**.  
 I’m passionate about addressing complex software challenges through **Software Craftsmanship** and robust architectural patterns like **Domain-Driven Design** and **Clean Architecture**, building solutions that are both scalable and maintainable.
@@ -8,7 +8,7 @@ I’m passionate about addressing complex software challenges through **Software
 - 🎓 Hold a **B.Sc. in Computer Science** from **Bilkent University**
 - 🏗️ Deeply interested in **Software Architecture** and **System Design** principles
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - **Languages:** Java
 - **Frameworks:** Spring Boot, Hibernate, JUnit
@@ -17,13 +17,13 @@ I’m passionate about addressing complex software challenges through **Software
 - **DevOps:** Docker, Kubernetes, Jenkins, CI/CD
 - **APIs:** RESTful APIs, OpenAPI Specification
 
-## 🏛️ Software Design & Architecture
+## Software Design & Architecture
 
 - **Methodologies:** Domain-Driven Design (DDD), Clean Architecture, Hexagonal Architecture
 - **Principles:** SOLID
 - **Code Quality:** Clean Code, Test-Driven Development (TDD), Refactoring
 
-## 🌱 Currently Growing In
+## Currently Growing In
 
 - Implementing **Domain-Driven Design** principles in complex business domains
 - Building evolvable systems using **Clean Architecture** patterns
@@ -31,7 +31,7 @@ I’m passionate about addressing complex software challenges through **Software
 - Improving code quality through **Test-Driven Development** and **Refactoring**
 - Applying **Hexagonal Architecture** for better separation of concerns
 
-## 📫 Let's Connect
+## Socials
 
 - [LinkedIn](https://www.linkedin.com/in/burak-ozmen/)
 
